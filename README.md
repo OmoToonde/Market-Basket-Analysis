@@ -50,7 +50,7 @@ Recommended items (consequents):
 
 ## Notes
 
-I kept the code and explanations as beginner friendly as possible. If you’re new to this kind of analysis, feel free to go through the notebook slowly — it’s all explained step by step.
+I kept the code and explanations as beginner friendly as possible. If you’re new to this kind of analysis, feel free to go through the notebook slowly, it’s all explained step by step.
 
 ---
 
